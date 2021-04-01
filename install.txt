@@ -1,0 +1,4 @@
+1.npm install
+2.npm i element-ui -S
+3.如果在启动时报错“Cannot find module 'babel-plugin-component'”
+   请在启动前安装： npm install babel-plugin-component -D
